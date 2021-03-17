@@ -1,0 +1,46 @@
+﻿background,action,attritube of action,object,attribute of object,response action
+Yard/garden,Dance,Unbalanced,Ball,kickable,Painful wailing
+Lawn ,Running,Careless,Dumbbells/barbells,fast speed,retreat
+Stage,Football,Unskilled,Butterfly machine,heavy,Provide assistance
+Track_and_field ground,Weightlifting,Spin too fast,Cable crossover,unbalanced,Laughing
+Soccer playground,Stretch,Spin too slow,Treadmill,unstable,Screaming
+Gym,Jump,Jump too low,Rolling machine,slippery,dodge
+Muddy place,Drag,Slippery,Other sports machine,movable,do nothing
+Street,Elastic rope,Poor aiming,Bike or motorbike,hard,surprising response
+Muddy slope,Ride the motorcycle,Run too fast,Slope,soft,vituperation
+Swimming pool,Diving,Too crowd,Box,round,
+Cliff,Mountain bike,Deliberately,Rail,sharp,
+Forest,Snowboarding,Stumble,Half pipe,floatable,
+Snow slope,Skiing,Unintended,Kicker,rushing,
+Lake,Wakeboard,Overload,Surfing board,big,
+Beach,Seesaw,Equipment is not stable,Air cushion,small,
+Artificial sport equipment,Motorboat,Too elastic,Boat/kayak/motorboat,long,
+Park,Surfing,No protection,Wave,short,
+Steps,Sit on the air cushion,Too weak,Swimming pool,jumpable,
+Garage,Boating,Wrong estimation,Other people/animal,drivable,
+Roof,Sliding,Drive too fast,Vehicle,high,
+Warehouse,Skateboarding,Wrong direction,Skateboard,low,
+Dressing room,Rock climbing,Field of view is too narrow,Cliff,flamable,
+Shopping mall,Trampoline,Wrong operate,Rope,high temperature,
+Restaurant,Balance car,Collision,Stairs,rotating,
+Kitchen,Skating,High temperature,Other sports equipment,flexible,
+Bar,Gymnastics,Too much fuel ,Heavy machinery,transparent,
+other indoor,Horse riding,Too much time,Electric welding,operatable,
+other outdoor,Welding,fatigued,barbecue grill,controllable,
+,Fixing,,fuel,out of control,
+,Masonry,,lighter,raw,
+,Offloading,,food,cooked,
+,Loading,,pan,sitable,
+,Operating machinery,,stove,climbable,
+,Hair cut,,glass,eatable,
+,Make up,,mixer,tasty,
+,Waxing,,tray,stable,
+,Walking on high heel,,other kitchen equipment,balance,
+,Use beauty equipment ,,table,thick,
+,Normal cooking,,chair,closed,
+,String,,door,open,
+,Decorating,,wood,rough,
+,Baking,,forklift,electric,
+,Barbecue,,crane,loadable,
+,Prepare food,,,rectangular,
+,,,,unskilled,
